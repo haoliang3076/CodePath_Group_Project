@@ -28,12 +28,12 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
+* [login/register, then showing a person's his/her own profile, and also others profile after they get matched]
 * ...
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
+* [Mapping locations]
 * ...
 
 ### 2. Screen Archetypes
