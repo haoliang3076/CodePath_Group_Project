@@ -33,7 +33,7 @@ Original App Design Project - README Template
 
 **Optional Nice-to-have Stories**
 
-* [Mapping locations]
+* [Map locations]
 * ...
 
 ### 2. Screen Archetypes
