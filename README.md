@@ -19,10 +19,10 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 
 - **Category**: Lifestyle
 - **Mobile:** iOS
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Story:** 
+- **Market:** 16+ 
+- **Habit:** 
+- **Scope:** 
 
 ## Product Spec
 
