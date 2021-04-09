@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-**MATCHMAKER**
+# Matchmaker
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -11,12 +11,12 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+[tired of Tinder? We are developing the best matching iOS application to pair your best interest. Similar idea like Tinder but with different design and matched algorithms. Including features like matching peer study groups, gaming parnter like Animal Crossing, and  the better way to make match ]
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
+- **Category:** Lifestyle
+- **Mobile:** iOS
 - **Story:**
 - **Market:**
 - **Habit:**
