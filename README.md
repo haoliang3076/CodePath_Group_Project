@@ -60,8 +60,8 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 **Tab Navigation** (Tab to Screen)
 
 * <img src="https://i.imgur.com/nevXhFo.png" width=600>
-* [fill out your second tab]
-* [fill out your third tab]
+* Home
+* Profile
 
 **Flow Navigation** (Screen to Screen)
 
