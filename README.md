@@ -38,7 +38,7 @@ Original App Design Project - README Template
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
+* [![myimage-alt-tag](https://i.imgur.com/875rLDp.png)]
    * [list associated required story here]
    * ...
 * [list second screen here]
