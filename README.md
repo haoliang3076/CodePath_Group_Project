@@ -30,7 +30,7 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 
 **Required Must-have Stories**
 
-* Login/Register
+* Login/Register 
 * Create profile
 * Show matches with similar interests
 * Chat with people
