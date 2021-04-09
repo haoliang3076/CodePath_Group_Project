@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# Matchmaker
+**MATCHMAKER**
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -11,14 +11,14 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[tired of Tinder? We are developing the best matching iOS application to pair your best interest. Similar idea like Tinder but with different design and matched algorithms. Including features like matching peer study groups, gaming parnter like Animal Crossing, and  the better way to make match ]
+[Description of your app]
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** Lifestyle
-- **Mobile:** iOS
+- **Category:**
+- **Mobile: iOS
 - **Story:**
-- **Market:**
+- **Market: 
 - **Habit:**
 - **Scope:**
 
@@ -28,23 +28,33 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [login/register, then showing a person's his/her own profile, and also others profile after they get matched]
-* ...
+* [fill in your required user stories here]
+* Login/Register
+* Create profile
+* Show matches with similar interests
+* Chat with people
+* Geolocator to decide on places for meetups
 
 **Optional Nice-to-have Stories**
 
-* [Map locations]
+* [fill in your required user stories here]
 * ...
 
 ### 2. Screen Archetypes
 
-* [![myimage-alt-tag](https://i.imgur.com/875rLDp.png)]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login/Register
+   * User registers or logs in into the app
+   
+* Detail
+   * User can create his/her profile accordingly
+   * They can also answer certain questions to filter out their matches
+   
+* Profile
+  * Users can view others profiles before they match with them and the profile will also show them how far do they live from each other
 
+* Maps
+  * Users (after finding their matches) can decide to meet up through our geolocator map within a certain distance
+  
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
@@ -55,16 +65,20 @@ Original App Design Project - README Template
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Launch Screen [MatchMaker]
+   * Launch Screen --> Login/Register Screen
+   
+* Login/Register Screen
+   * Login/Register Screen --> Create Profile Screen --> Profile Screen
+   
+* Profile Screen
+  * Edit profile --> Save it --> Start looking for matches
+  
+* 
+  
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="https://i.imgur.com/7JP6efm.jpg" width=600>
+<img src="" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
