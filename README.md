@@ -11,13 +11,14 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+
+tired of Tinder? We are developing the best matchmaking iOS application to pair you with the best. Similar idea like Tinder but with different design and matched algorithms. A slightly different approach consisting of features including matching peer study groups, gaming partner like Animal Crossing, and the better way to make a match. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile: iOS
-- **Story:**
+- Category: Lifestyle
+- Mobile: iOS
+- Story: 
 - **Market: 
 - **Habit:**
 - **Scope:**
@@ -28,7 +29,6 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
 * Login/Register
 * Create profile
 * Show matches with similar interests
@@ -59,7 +59,7 @@ Original App Design Project - README Template
 
 **Tab Navigation** (Tab to Screen)
 
-* [<img src="https://i.imgur.com/nevXhFo.png" width=600>]
+* <img src="https://i.imgur.com/nevXhFo.png" width=600>
 * [fill out your second tab]
 * [fill out your third tab]
 
