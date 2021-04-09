@@ -59,7 +59,7 @@ Original App Design Project - README Template
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
+* [<img src="https://i.imgur.com/nevXhFo.png" width=600>]
 * [fill out your second tab]
 * [fill out your third tab]
 
