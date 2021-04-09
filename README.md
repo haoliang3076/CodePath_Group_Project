@@ -38,8 +38,7 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Maybe show a pop-up everytime there is a match
 
 ### 2. Screen Archetypes
 
@@ -75,9 +74,6 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 * Profile Screen
   * Edit profile --> Save it --> Start looking for matches
   
-* 
-  
-
 ## Wireframes
 <img src="https://github.com/haoliang3076/CodePath_Group_Project/blob/main/AppWF.jpg" width=600>
 
