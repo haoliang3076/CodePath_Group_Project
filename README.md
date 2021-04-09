@@ -17,12 +17,12 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 
-- **Category**: Lifestyle
-- **Mobile:** iOS
-- **Story:** 
+- **Category**: Social Networking/Lifestyle
+- **Mobile:** iOS mobile device 
+- **Story:** User will match/pair of their interest
 - **Market:** 16+ 
-- **Habit:** 
-- **Scope:** 
+- **Habit:** This app can be used at any time, but requires use from other users to make match
+- **Scope:** People will be able to match like/dislike on other users profile to make their best pair. Map features will give user best experience to get to know each other.
 
 ## Product Spec
 
