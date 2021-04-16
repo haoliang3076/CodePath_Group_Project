@@ -124,8 +124,20 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 - Search Screen
     - (Create/POST) Create a new like on the profile
     - (Delete) Delete existing like
-    - (Create/POST) Create a new comment on the post
-    - (Delete) Delete existing comment on the post
 
-- [Create basic snippets for each Parse network request]
+[Create basic snippets for each Parse network request] 
+
+- Login Screen
+  let query = PFQuery(className:"Post")
+  query.whereKey("author", equalTo: currentUser)
+  query.order(byDescending: "createdAt")
+  query.findObjectsInBackground { (posts: [PFObject]?, error: Error?) in
+   if let error = error { 
+      print(error.localizedDescription)
+   } else if let posts = posts {
+      print("Successfully retrieved \(posts.count) posts.")
+  // TODO: Do something with posts...
+   }
+}
+
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
