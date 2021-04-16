@@ -82,10 +82,51 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
+
+- Login Screen
+
+| Property | Type | Description|
+| -------- | -------- | -------- |
+| username     | String     | special id for user     |
+| password    | String     | special password for user     |
+
+- Profile Screen
+
+| Property | Type | Description|
+| -------- | -------- | -------- |
+| profilePic     | File     | image of author  |
+| postPic     | File     | author's posts  |
+| profilePic     | File     | image of author  |
+
+- Search Screen
+
+| Property | Type | Description|
+| -------- | -------- | -------- |
+| userID     | String     | Unique ID   |
+| Data     | List | List of current exsist recipe
+| filteredData | String | Repersent rows of data that match the search text
+| Image     | File     | image that users post    |
+| Description     | String     | image description by author     |
+
+
+### Networking 
+
+- Login Screen
+    - (Create) New Account
+    - (Get) Username 
+    - (Get) Password
+
+- Profile Screen
+    - (Read/GET) Query logged in user object
+    - (Update/PUT) Update user profile image
+    - (Update/PUT) Update user's post image
+    
+- Search Screen
+    - (Create/POST) Create a new like on a post
+    - (Delete) Delete existing like
+    - (Create/POST) Create a new comment on a post
+    - (Delete) Delete existing comment
+
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
