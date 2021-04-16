@@ -97,7 +97,6 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 | -------- | -------- | -------- |
 | profilePic     | File     | image of author  |
 | postPic     | File     | author's posts  |
-| profilePic     | File     | image of author  |
 
 - Search Screen
 
