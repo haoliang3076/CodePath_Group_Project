@@ -104,8 +104,8 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
 | Property | Type | Description|
 | -------- | -------- | -------- |
 | userID     | String     | Unique ID   |
-| Data     | List | List of current exsist recipe
-| filteredData | String | Repersent rows of data that match the search text
+| Data     | List | List of current existing matches
+| filteredData | String | Represent rows of data that match the search text
 | Image     | File     | image that users post    |
 | Description     | String     | image description by author     |
 
@@ -123,10 +123,10 @@ tired of Tinder? We are developing the best matchmaking iOS application to pair 
     - (Update/PUT) Update user's post image
     
 - Search Screen
-    - (Create/POST) Create a new like on a post
+    - (Create/POST) Create a new like on the profile
     - (Delete) Delete existing like
-    - (Create/POST) Create a new comment on a post
-    - (Delete) Delete existing comment
+    - (Create/POST) Create a new comment on the post
+    - (Delete) Delete existing comment on the post
 
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
